@@ -59,7 +59,7 @@ function background (color){
 function changebackground(){
     bod.style.color = "black";
         h1.style.color = "grey";
-        image.style.color = "lightslategray";
+        image.style.color = "slateblue";
         image.style.backgroundImage = " url(img/bedroom.jpg)";
 }
         
